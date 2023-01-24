@@ -39,20 +39,20 @@ a{
 }
 
 body{
-	font-family: 'roboto', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
+  font-size: 16px;
 }
 
 
 
 
 .name-wrapper h1 {
-    font-size: 2.8em;
+    font-size: 2.7em;
     line-height: 1em;
     margin-bottom: 10px;
     margin-top: 0;
-    text-transform: lowercase;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
 }
 
 .big-containner{
@@ -146,6 +146,7 @@ img {
 
 .story{
   padding-right: 10px;
+  padding-bottom: 10px;
 }
 
 .story:hover{
