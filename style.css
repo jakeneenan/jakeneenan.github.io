@@ -52,7 +52,8 @@ body{
     line-height: 1em;
     margin-bottom: 10px;
     margin-top: 0;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'CLimate Crisis', sans-serif;
+    font-variation-settings: 'YEAR' 2015;
 }
 
 .big-containner{
