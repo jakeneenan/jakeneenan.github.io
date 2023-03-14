@@ -24,8 +24,10 @@ a{
 
 .contact-info a{
 	text-decoration: none;
-    border-bottom: 0;
-    color: #282828;
+  border-bottom: 0;
+  color: #282828;
+  padding-right: 10px;
+
    
 }
 
