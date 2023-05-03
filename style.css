@@ -12,9 +12,11 @@ a{
 }
 
  img{
+
+  border-bottom: 1px solid #282828;
  /*  -webkit-filter: grayscale(20%);  Safari 6.0 - 9.0 
     filter: grayscale(20%);*/
-  padding: 10px, 10px, 10px, 10px;
+  /* padding: 10px, 10px, 10px, 10px; */
   
  }
 
@@ -97,7 +99,7 @@ body{
 
 
  .name-container{
- 	border-top: 1px solid #282828;
+ 	/* border-top: 1px solid #282828; */
  }
 
  .note{
@@ -125,8 +127,16 @@ body{
 
 
  .img-container{
- 	width: 100%;
- 	height: auto;
+
+  width: auto;
+  height: auto;
+
+  
+
+
+
+  
+
  }
 
  .inner{
